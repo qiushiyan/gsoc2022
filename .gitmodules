@@ -1,0 +1,3 @@
+[submodule "rsqliteadmin"]
+	path = rsqliteadmin
+	url = https://github.com/qiushiyan/rsqliteadmin
